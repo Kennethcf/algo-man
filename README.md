@@ -40,7 +40,7 @@ config.php contains all the functions used
 <h3>most of the created files exist</h3>
 <h3>database logs are not transfered but can find the code I used in creations and permissons <h3>
  
- <b>timeperiod :30 (total time used for creataion in hours)</b>
+ <b>timeperiod :30 (total time used for creation in hours)</b>
 
   
   
