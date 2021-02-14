@@ -1,11 +1,18 @@
 <h3> algo-man </h3>
 a college project built on linux <br>
 this is a college project database has to be connected tables has to be created<br>
+
+after conneection login's will be opened
+which will provide access to uploads
+use documentation for understanding what the function does
+config.php contains all the functions used
+
+
 # requirement mysql
-<h3>features :<br>
-  runs with php and python<br>
+<h3>features :<br></h3>
+ runs with php and python<br>
  this tool can be used in production <br>
- built on linux sutable for both <br>
+ built on linux can be bulit on window <br>
  it can be used to write codes automatically<br>
 
 #it was bulit for AI performance it uses concepts of encription,decription,database,autentication.<br>
@@ -30,6 +37,10 @@ this is a college project database has to be connected tables has to be created<
 
 
 <h1>more information in doc.docx</h1>
+<h3>most of the created files exist</h3>
+<h3>database logs are not transfered but can find the code I used in creations and permissons <h3>
+ 
+ <b>timeperiod :30 (total time used for creataion in hours)</b>
 
   
   
