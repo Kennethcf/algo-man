@@ -27,6 +27,9 @@ this is a college project database has to be connected tables has to be created<
 #the tool:<br><br>
   it is used to retirve the data and process when nessory<br>
   it is under the folder tool/tool.py</p><br>
-<b>more information in doc.docx</b>
+
+
+<h1>more information in doc.docx</h1>
+
   
   
