@@ -1,7 +1,7 @@
 # algo-man<br>
 a college project built on linux <br>
 this is a college project database has to be connected tables has to be created<br>
-# requirement mysqlv <br>
+# requirement mysql <br>
 #features :<br>
  runs with php and python<br>
  this tool can be used in production <br>
