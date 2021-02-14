@@ -14,7 +14,7 @@ this is a college project database has to be connected tables has to be created<
   networking on beta<br>
     password length : small<br>
     3rd party protection : none<br> 
-    #desclamer : enalbe networking if aware
+    <h3>info desclamer : enalbe networking if aware</h3>
     
 #skill requirements: <br> <br>
   html<br>
